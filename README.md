@@ -4,12 +4,10 @@ Repositório criado para realização de atividades práticas desta disciplina.
 
 ## Código fonte das aulas
 
-- Modelo Conceitual
-- Modelo Lógico
-- Modelo Físico
-- SQL ANSI
-- Comandos DDL
-- Comandos DML
+- Modelo Conceitual [clique aqui](src/aula06_08)
+- Modelo Lógico [clique aqui](src/aula09_11)
+- Modelo Físico [clique aqui](src/aula12_13)
+- Linguagem SQL [clique aqui](src/aula14_16)
 
 ## Lista de atividades práticas
 
